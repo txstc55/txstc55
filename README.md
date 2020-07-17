@@ -1,5 +1,5 @@
 <a href="https://tangxuan.me">
-  <img align="right" src="https://github.com/txstc55/txstc55/blob/master/profile.jpg" width="20%"/>
+  <img align="right" src="https://github.com/txstc55/txstc55/blob/master/profile.jpg" width="35%"/>
 </a>
 
 # Hello there, I'm Xuan Tang(唐煊) :pig:
