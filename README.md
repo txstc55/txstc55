@@ -59,25 +59,15 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
     <li>Will use most of the images available instead of huge amout of repetition</li>
   </ul>
 </MOSAIC>
-<!--
 
-
-**txstc55/txstc55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-  <ul align="left">
-    <li>A terminal mesh viewer, can be used to view models you like</li>
-    <li>A matrix movie effect is applied</li>
-    <li>JUST F**KING AWSOME</li>
-  </ul>
--->
+## Language and Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/-c++-335158?style=flat-square" alt="c++">
+  <img src="https://img.shields.io/badge/-python-blue?style=flat-square" alt="python">
+  <img src="https://img.shields.io/badge/-java-red?style=flat-square" alt="java">
+  <img src="https://img.shields.io/badge/-R-827a75?style=flat-square" alt="R">
+  <img src="https://img.shields.io/badge/-Haskell-7e2a8a?style=flat-square" alt="Haskell">
+  <img src="https://img.shields.io/badge/-Computer%20Graphics-3eaf91?style=flat-square" alt="Computer Graphics">
+  <img src="https://img.shields.io/badge/-HPC-414c4d?style=flat-square" alt="HPC">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-171e1c?style=flat-square" alt="Machine Learning">
+</p>
