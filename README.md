@@ -1,8 +1,15 @@
-### Hello there
-
 <a href="https://tangxuan.me">
   <img align="right" src="https://github.com/txstc55/txstc55/blob/master/profile.jpg" width="20%"/>
 </a>
+
+# Hello there, I'm Xuan Tang(唐煊) :pig:
+Got my data science Bachelor degree from University of Rochester:bar_chart:
+
+Got my computer science Master degree from New York University:computer:
+
+Yes, this is me on the right, click to view more pictures ------------------------->
+
+
 
 <!--
 
