@@ -59,6 +59,7 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
     <li>Will use most of the images available instead of huge amout of repetition</li>
   </ul>
 </MOSAIC>
+<br><br>
 
 ## Language and Skills
 <p align="center">
