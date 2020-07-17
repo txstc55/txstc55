@@ -33,7 +33,7 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
   <ul>
     <li>A terminal mesh viewer, can be used to view models you like</li>
     <li>A matrix movie effect is applied</li>
-    <li>JUST DO IT</li>
+    <li>CLICK TO VIEW THE IMAGE :arrow_right:</li>
   </ul>
 </MATRIXVIEWER>
 
