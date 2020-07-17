@@ -29,11 +29,11 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
   <a href="https://github.com/txstc55/matrix_viewer">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=matrix_viewer&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
   </a>
-  <img align="left" src="https://github.com/txstc55/matrix_viewer/blob/master/pic/matrix_effect.png" width="20%"/>
-  <ul align="left">
+  <img align="right" src="https://github.com/txstc55/matrix_viewer/blob/master/pic/matrix_effect.png" width="20%"/>
+  <ul>
     <li>A terminal mesh viewer, can be used to view models you like</li>
     <li>A matrix movie effect is applied</li>
-    <li>JUST F**KING AWSOME</li>
+    <li>JUST DO IT</li>
   </ul>
 </MATRIXVIEWER>
 
