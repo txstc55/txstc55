@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Xuan's github](https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&hide_border=true)
+![Xuan's github](https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&hide_border=true&icon_color=c35832&text_color=568c88&bg_color=568c88)
 <!--
 **txstc55/txstc55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
