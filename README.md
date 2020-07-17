@@ -14,6 +14,7 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
 </a>
 
 ## My Proud Projects
+
 <EGGS>
   <a href="https://github.com/txstc55/EGGS">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=EGGS&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
@@ -24,19 +25,40 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
     <li>SGP 2020 Best Paper Honorable Mention</li>
   </ul>
 </EGGS>
-<br><br>
+<br>
 <MATRIXVIEWER>
   <a href="https://github.com/txstc55/matrix_viewer">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=matrix_viewer&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" width="auto"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=matrix_viewer&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
   </a>
   <img align="right" src="https://github.com/txstc55/matrix_viewer/blob/master/pic/matrix_effect.png" width="22%"/>
-  <ul>
+  <ul align="left">
     <li>A terminal mesh viewer, can be used to view models you like</li>
     <li>A matrix movie effect is applied</li>
     <li>CLICK TO VIEW THE IMAGE :arrow_right:</li>
   </ul>
 </MATRIXVIEWER>
-
+<br>
+<DOGESAY>
+  <a href="https://github.com/txstc55/dogesay">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=dogesay&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
+  </a>
+  <ul align="right">
+    <li>A zsh plugin to repeat whatever you type in command line</li>
+    <li>Just a doge</li>
+    <li> <img align="right" src="https://emojis.slackmojis.com/emojis/images/1450451598/168/doge2.png?1450451598" width="5%"/></li>
+  </ul>
+</DOGESAY>
+<br>
+<MOSAIC>
+  <a href="https://github.com/txstc55/ImageMosaicBVH">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=ImageMosaicBVH&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
+  </a>
+  <ul align="left">
+    <li>Generates an image mosaic with given set of images</li>
+    <li>Dynamic block size to reserve more features</li>
+    <li>Will use most of the images available instead of huge amout of repetition</li>
+  </ul>
+</MOSAIC>
 <!--
 
 
