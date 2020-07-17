@@ -23,16 +23,17 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
     <li>Paper link: https://cims.nyu.edu/gcl/papers/2020-EGGS.pdf</li>
     <li>SGP 2020 Best Paper Honorable Mention</li>
   </ul>
+  <br>
 </EGGS>
 
 <MATRIXVIEWER>
   <a href="https://github.com/txstc55/matrix_viewer">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=matrix_viewer&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=matrix_viewer&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
   </a>
-  <ul align="right">
-    <li>Generate code specific to sparsity and operation which gives better performance</li>
-    <li>Paper link: https://cims.nyu.edu/gcl/papers/2020-EGGS.pdf</li>
-    <li>SGP 2020 Best Paper Honorable Mention</li>
+  <ul align="left">
+    <li>A terminal mesh viewer, can be used to view models you like</li>
+    <li>A matrix movie effect is applied</li>
+    <li>JUST F**KING AWSOME</li>
   </ul>
 </MATRIXVIEWER>
 
