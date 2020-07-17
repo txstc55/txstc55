@@ -12,15 +12,22 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
 <a href="https://github.com/txstc55">
   <img src="https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
 </a>
+
+## My Proud Projects
+<EGGS>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="left" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=EGGS&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
+  </a>
+  <ul style="right">
+    <li style="text-align:right">     Coffee</li>
+    <li>     Tea</li>
+    <li>     Milk</li>
+  </ul>
+
+</EGGS>
+
 <!--
 
-<body style="background-color:powderblue;">
-<a href="https://github.com/txstc55">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&hide_border=true&icon_color=c35832&text_color=568c88&bg_color=568c88" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 
 **txstc55/txstc55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
