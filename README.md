@@ -25,7 +25,7 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
     <li>SGP 2020 Best Paper Honorable Mention</li>
   </ul>
 </EGGS>
-<br>
+<br><br>
 <MATRIXVIEWER>
   <a href="https://github.com/txstc55/matrix_viewer">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=matrix_viewer&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
@@ -37,7 +37,7 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
     <li>CLICK TO VIEW THE IMAGE :arrow_right:</li>
   </ul>
 </MATRIXVIEWER>
-<br>
+<br><br>
 <DOGESAY>
   <a href="https://github.com/txstc55/dogesay">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=dogesay&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
@@ -48,7 +48,7 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
     <li> <img align="right" src="https://emojis.slackmojis.com/emojis/images/1450451598/168/doge2.png?1450451598" width="5%"/></li>
   </ul>
 </DOGESAY>
-<br>
+<br><br>
 <MOSAIC>
   <a href="https://github.com/txstc55/ImageMosaicBVH">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=ImageMosaicBVH&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
