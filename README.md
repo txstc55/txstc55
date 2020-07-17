@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&hide_border=true&icon_color=c35832&text_color=568c88&bg_color=568c88" />
 </a>
 <a href="https://tangxuan.me">
-  <img align="right" src="https://github.com/txstc55/txstc55/blob/master/profile.jpg" style="width:100px;"/>
+  <img align="right" src="https://github.com/txstc55/txstc55/blob/master/profile.jpg" width="20%"/>
 </a>
 
 <!--
