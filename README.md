@@ -9,7 +9,7 @@ Got my computer science Master degree from New York University:computer:
 
 Yes, this is me on the right, click to view more pictures ------------------------->
 
-
+![Xuan's github stats](https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43)
 
 <!--
 
