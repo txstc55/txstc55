@@ -18,12 +18,11 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=EGGS&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
   </a>
-  <ul style="right">
-    <li style="text-align:right">     Coffee</li>
-    <li>     Tea</li>
-    <li>     Milk</li>
+  <ul align="right" style="list-style-type:none;">
+    <li>Generate code specific to sparsity and operation which gives better performance</li>
+    <li>Paper link: https://cims.nyu.edu/gcl/papers/2020-EGGS.pdf</li>
+    <li>SGP 2020 Best Paper Honorable Mention</li>
   </ul>
-
 </EGGS>
 
 <!--
