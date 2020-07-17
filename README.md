@@ -3,14 +3,17 @@
 </a>
 
 # Hello there, I'm Xuan Tang(唐煊) :pig:
-Got my data science Bachelor degree from University of Rochester:bar_chart:
+Got my data science Bachelor degree from University of Rochester :bar_chart:
 
-Got my computer science Master degree from New York University:computer:
+Got my computer science Master degree from New York University :computer:
 
 Yes, this is me on the right, click to view more pictures :arrow_right:
 
-![Xuan's github stats](https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43)
+Here is a summary of my github activities:
 
+<a href="https://github.com/txstc55">
+  <img src="https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
+</a>
 <!--
 
 <body style="background-color:powderblue;">
