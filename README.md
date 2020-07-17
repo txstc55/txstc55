@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello there
 ![Xuan's github](https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&hide_border=true&icon_color=c35832&text_color=568c88&bg_color=568c88)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&hide_border=true&icon_color=c35832&text_color=568c88&bg_color=568c88">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=txstc55&show_icons=true&hide_border=true&icon_color=c35832&text_color=568c88&bg_color=568c88" />
+</a>
+
+
 <!--
 **txstc55/txstc55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
