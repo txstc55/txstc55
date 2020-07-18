@@ -30,11 +30,10 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
   <a href="https://github.com/txstc55/matrix_viewer">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=txstc55&repo=matrix_viewer&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
   </a>
-  <img align="right" src="https://github.com/txstc55/matrix_viewer/blob/master/pic/matrix_effect.png" width="22%"/>
   <ul align="left">
     <li>A terminal mesh viewer</li>
     <li>A matrix movie effect is applied</li>
-    <li>CLICK TO VIEW THE IMAGE :arrow_right:</li>
+    <li>Very cool</li>
   </ul>
 </MATRIXVIEWER>
 <br><br>
