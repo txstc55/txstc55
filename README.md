@@ -32,7 +32,7 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
   </a>
   <img align="right" src="https://github.com/txstc55/matrix_viewer/blob/master/pic/matrix_effect.png" width="22%"/>
   <ul align="left">
-    <li>A terminal mesh viewer, can be used to view models you like</li>
+    <li>A terminal mesh viewer</li>
     <li>A matrix movie effect is applied</li>
     <li>CLICK TO VIEW THE IMAGE :arrow_right:</li>
   </ul>
