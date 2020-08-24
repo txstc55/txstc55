@@ -60,6 +60,17 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
   </ul>
 </MOSAIC>
 <br><br>
+<DOGESAY>
+  <a href="https://github.com/prettywordcloud/prettywordcloud.github.io">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=prettywordcloud&repo=prettywordcloud.github.io&show_icons=true&title_color=eaefec&icon_color=fd5f51&text_color=bed5e3&bg_color=2b3a43" />
+  </a>
+  <ul align="right">
+    <li>An online word cloud generator</li>
+    <li>The word cloud will closely assemble the input image</li>
+    <li><a href="https://prettywordcloud.github.io/#/" target="_blank">Try it here</a></li>
+  </ul>
+</DOGESAY>
+<br><br>
 
 ## Language and Skills
 <p align="center">
