@@ -76,7 +76,7 @@ Yes, this is me on the right, click to view more pictures :arrow_right:
 <p align="center">
   <img src="https://img.shields.io/badge/-c++-335158?style=flat-square" alt="c++">
   <img src="https://img.shields.io/badge/-python-blue?style=flat-square" alt="python">
-  <img src="https://img.shields.io/badge/-Go-24a591?style=flat-square" alt="python">
+  <img src="https://img.shields.io/badge/-Go-24a591?style=flat-square" alt="Go">
   <img src="https://img.shields.io/badge/-java-red?style=flat-square" alt="java">
   <img src="https://img.shields.io/badge/-R-827a75?style=flat-square" alt="R">
   <img src="https://img.shields.io/badge/-Haskell-7e2a8a?style=flat-square" alt="Haskell">
